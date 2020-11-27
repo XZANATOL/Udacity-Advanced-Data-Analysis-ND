@@ -7,7 +7,7 @@
 > This dataset contains information regarding 14,595,137 flights from the United Statess, including carriers, arrival and departure delays, and reasons for delays, from 2006 to 2007.
 
 Data can be found here > http://stat-computing.org/dataexpo/2009/the-data.html <br/>
-dataset can be downloaded from here > https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7 <br/>
+Datasets can be downloaded from here > https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HG7NV7 <br/>
 Documentation of variables can be found here > https://www.transtats.bts.gov/Fields.asp?Table_ID=236
 
 
